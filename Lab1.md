@@ -1,17 +1,17 @@
-# №1 Створити змінні базових (atomic) типів. Базові типи: character, numeric, integer, complex, logical.
+# №1 Створити змінні базових (atomic) типів. Базові типи: character, numeric, integer, complex, logical.   
 
 
-character <- 'friends'
-print(class(character))
-numeric <- pi
-class(numeric)
-integer <- 2L
-#L вказує що це ціле число
-print(class(integer))
-complex <- (1+5i)
-print(class(complex))
-logical <- FALSE
-print(class(logical))
+character <- 'friends'   
+print(class(character))   
+numeric <- pi   
+class(numeric)   
+integer <- 2L   
+#L вказує що це ціле число   
+print(class(integer))   
+complex <- (1+5i)   
+print(class(complex))   
+logical <- FALSE   
+print(class(logical))   
 
 
 # №2Створити вектори, які: містить послідовність з 5 до 75; містить числа 3.14,
