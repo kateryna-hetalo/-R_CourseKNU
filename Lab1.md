@@ -6,7 +6,7 @@ print(class(character))
 numeric <- pi
 class(numeric)
 integer <- 2L
-     L вказує що це ціле число
+#L вказує що це ціле число
 print(class(integer))
 complex <- (1+5i)
 print(class(complex))
